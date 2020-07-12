@@ -1,4 +1,5 @@
 ## This is **Rosalina**
+![image](https://i0.wp.com/mobilanyheter.net/wp-content/uploads/2020/06/783px-Test-Logo.svg_.png?fit=783%2C359&ssl=1)
 
 You can use the [editor on GitHub](https://github.com/Cattleboo/rosalina-web-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
