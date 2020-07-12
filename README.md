@@ -1,4 +1,4 @@
-<br/>
+
 Rosalina is low latency, easy to use Discord music bot.
 <br/>
 ![image](./rosalina.jpg)
