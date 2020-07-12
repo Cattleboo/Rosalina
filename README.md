@@ -1,4 +1,4 @@
-This is Rosalina
+#This is Rosalina
 ![image](./rosalina.jpg)
 
 Rosalina is low latency, easy to use Discord music bot.
@@ -6,9 +6,9 @@ Rosalina is low latency, easy to use Discord music bot.
 
 ### What can Rosalina do?
 
-  -Loop your favourite songs
-  -play a whole playlist from youtube
-  -search videos to play
+  -Loop your favourite songs<br/>
+  -play a whole playlist from youtube<br/>
+  -search videos to play<br/>
   -boost volume of your songs.
 
 
@@ -18,4 +18,6 @@ Rosalina is low latency, easy to use Discord music bot.
 
 ### Support or Contact
 
-Having trouble with my bot? Send e-mail to **seb.dud@onet.pl** or [contact me on discord](https://discord.gg/8mP7czx).
+Having trouble with my bot?<br/>
+Send e-mail to **seb.dud@onet.pl** or<br/>
+[contact me on discord](https://discord.gg/8mP7czx).
