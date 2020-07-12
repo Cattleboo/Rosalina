@@ -1,6 +1,6 @@
 
-Rosalina is low latency, easy to use Discord music bot.
-<br/>
+### Rosalina is low latency, easy to use Discord music bot.<br/>
+‎<br/>
 ![image](./rosalina.jpg)
 
 
