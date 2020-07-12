@@ -1,5 +1,5 @@
 #This is Rosalina
-![image](./rosalina1.jpg)
+![image](./rosalina.jpg)
 
 You can use the [editor on GitHub](https://github.com/Cattleboo/rosalina-web-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
