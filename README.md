@@ -1,4 +1,4 @@
-#This is Rosalina
+
 ![image](./rosalina.jpg)
 
 Rosalina is low latency, easy to use Discord music bot.
@@ -19,5 +19,5 @@ Rosalina is low latency, easy to use Discord music bot.
 ### Support or Contact
 
 Having trouble with my bot?<br/>
-Send e-mail to **seb.dud@onet.pl**<br/>
-or [contact me on discord](https://discord.gg/8mP7czx).
+<br/>
+Send e-mail to **seb.dud@onet.pl** or [contact me on discord](https://discord.gg/8mP7czx).
